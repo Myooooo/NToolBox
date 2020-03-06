@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">N工具箱</string>
+    <string name="app_description">一个以记录为主的实用工具合集</string>
+    <string name="baby_edition">贝贝定制版</string>
+    <string name="copyright">© FMY 2020 All Rights Reserved</string>
+    <string name="version">版本 v0.1 Alpha</string>
+    <string name="main_menu_add_test_data">导入测试数据</string>
+    <string name="main_menu_settings">设置</string>
+    <string name="main_menu_help">帮助</string>
+    <string name="main_menu_about">关于</string>
+    <string name="action_search">搜索</string>
+    <string name="action_add_new">添加...</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="nav_home">主页</string>
+    <string name="nav_list">记录</string>
+    <string name="nav_tools">工具</string>
+    <string name="add_event_note">新建事件记录</string>
+    <string name="add_item_note">新建物品记录</string>
+    <string name="add_money_note">新建交易记录</string>
+    <string name="add_date_note">新建日期记录</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="or">或</string>
+
+    <string name="years">年</string>
+    <string name="months">月</string>
+    <string name="days">天</string>
+    <string name="hours">小时</string>
+    <string name="minutes">分钟</string>
+
+    <string name="title">标题</string>
+    <string name="description">描述</string>
+    <string name="tags">标签</string>
+    <string name="is_alert">开启提醒</string>
+    <string name="alert_date">提醒时间：</string>
+    <string name="select_alert_date">选择提醒时间</string>
+    <string name="is_starred">添加星标</string>
+
+    <string name="item_title">物品名称</string>
+    <string name="item_description">备注</string>
+    <string name="item_location">位置</string>
+    <string name="item_quantity">数量</string>
+    <string name="item_due_flag">设置保质期</string>
+    <string name="item_valid_period">保质期限：</string>
+    <string name="item_select_valid_period">输入保质期</string>
+    <string name="item_due_date">到期时间：</string>
+    <string name="item_select_due_date">选择到期日</string>
+    <string name="item_before_due_date">到期前...</string>
+    <string name="item_add_image">添加照片</string>
+    <string name="hint_item_title">例如：苹果</string>
+    <string name="hint_item_description">例如：每天晚上吃一个</string>
+    <string name="hint_item_tags">例如：水果（可添加多个，空格隔开）</string>
+    <string name="hint_item_location">例如：冰箱第二层抽屉</string>
+    <string name="hint_item_quantity">默认：1</string>
+    <string name="hint_item_quantifier">量词</string>
+</resources>

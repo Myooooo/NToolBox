@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="80dp">
+
+    <TextView
+        android:id="@+id/item_title"
+        android:textSize="18sp"
+        android:text="物品名称"
+        android:textColor="@color/md_black_1000"
+        android:maxLength="15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="12dp"/>
+
+    <TextView
+        android:id="@+id/item_description"
+        android:textSize="16sp"
+        android:text="物品位置"
+        android:maxLength="20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:id="@+id/item_time_past"
+        android:text="时间"
+        android:maxLength="5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginTop="16dp"/>
+
+    <ImageView
+        android:id="@+id/item_star"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src = "@drawable/round_star_border_24"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="12dp"/>
+
+
+
+</RelativeLayout>
